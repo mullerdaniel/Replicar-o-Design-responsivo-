@@ -233,12 +233,12 @@
 
 .parte-de-baixo h2 {
     margin-left: 20px;
-    color: rgba(255, 255, 255, 0.651);
+    color: rgba(255, 255, 255, 0.877);
 }
 
 .parte-de-baixo p {
     margin-left: 20px;
-    color: rgba(255, 255, 255, 0.651);
+    color: rgba(255, 255, 255, 0.877);
 }
 
 .botoes-footer a {
@@ -272,7 +272,7 @@
 }
 
 .botoes-footer-inferior a {
-    color: rgba(255, 255, 255, 0.651);
+    color: rgba(255, 255, 255, 0.877);
     font-size: 10px;
     margin-left: 20px;
     margin-right: 20px;
@@ -294,7 +294,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    color: rgba(255, 255, 255, 0.651);
+    color: rgba(255, 255, 255, 0.877);
     font-size: 13px;
 }
 
